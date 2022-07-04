@@ -117,7 +117,7 @@ body {
 .team {
     background-color: var(--light-bg-cl);
 }
-.team-title {
+.team-name {
     font-weight: 500;
     font-size: 16px;
     line-height: calc(19 / 16);
